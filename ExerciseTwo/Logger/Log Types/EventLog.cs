@@ -10,7 +10,6 @@ namespace Logger.Log_Types
     {
         private const string Source = "Exercise One";
         private static string log = "Application";
-        private static string machine = "YOTAMLAPTOP";
         private static readonly WindowsEventLog _eventLog = new WindowsEventLog() {Source = Source, Log = log};
 
 

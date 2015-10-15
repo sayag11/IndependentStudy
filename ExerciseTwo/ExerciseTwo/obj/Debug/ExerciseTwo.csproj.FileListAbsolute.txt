@@ -1,1 +1,8 @@
 C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csprojResolveAssemblyReference.cache
+C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\bin\Debug\Logger.dll
+C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\bin\Debug\Logger.pdb
+C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\Yehonatan\Documents\GitHub\Independent Study\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.pdb

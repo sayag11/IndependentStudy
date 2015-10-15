@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTwo", "ExerciseTwo\ExerciseTwo.csproj", "{0740B4CA-FFBD-44A1-8953-7E60A76986F1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9D4FEF21-0777-493E-A8E3-A474C49FBB07} = {9D4FEF21-0777-493E-A8E3-A474C49FBB07}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{9D4FEF21-0777-493E-A8E3-A474C49FBB07}"
 EndProject
